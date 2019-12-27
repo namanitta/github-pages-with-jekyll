@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my git learning Journey
 
-I'm glad you are here. I plan to talk about ...
+Lets get this world started!!! Should be fun.
